@@ -68,8 +68,6 @@ streamlit run app/streamlit_app.py
 - Click submit to get a prediction: Normal, Suspect, or Pathologic
 - The app will display the result and highlight any input errors
 
----
-
 🛠️ Tech Stack
 
 | Layer         | Tools Used                      |
@@ -78,8 +76,6 @@ streamlit run app/streamlit_app.py
 | Modeling      | Random Forest                    |
 | App Interface | Streamlit                        |
 | Deployment    | Local or Streamlit Cloud         |
-
----
 
 📬 Contact
 
